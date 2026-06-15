@@ -1,4 +1,7 @@
-# Pomodoro !
+# Pomodoro ! 
+
+# /!\ tiny school project /!\
+-# note: I am actually not that passionate about the concept of productivity: just look at my github activity graph lol
 
 A simple and stylish Pomodoro Timer web app designed to boost your productivity effortlessly.
 
